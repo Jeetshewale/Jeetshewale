@@ -1,9 +1,9 @@
 # 💫 About Me:
 💻 Tech Enthusiast
 
-🔹 Passionate about Ui-Ux 
+🔹 Passionate about business analytics and data-driven decision making.
 🔹 Experienced in R, Python, SQL, and Git
-🔹 Working on data-driven projects & statistical modeling
+🔹 Aspiring to grow into management roles by combining design, analytics, and strategy.
 
 
 ## 🌐 Socials:
